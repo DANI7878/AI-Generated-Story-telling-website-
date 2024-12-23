@@ -21,7 +21,7 @@ StoryGenerator is a web application that allows users to generate and customize 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akshaya-2003/StoryGenerator.git
+   git clone https://github.com/DANI7878/AI-Generated-Story-telling-website-.git
    ```
 2. Navigate to the project directory:
    ```bash
